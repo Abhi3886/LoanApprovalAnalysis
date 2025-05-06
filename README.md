@@ -51,7 +51,7 @@ The dataset used for this project contains the following columns:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/loan-approval-analysis.git
-````
+   ```
 
 2. Run the project:
 
@@ -59,10 +59,16 @@ The dataset used for this project contains the following columns:
    python LoanApproval.py
    ```
 
+--- 
+
+
 ## Results
 
 * Model Performance Evaluation: The models are evaluated using several metrics, such as accuracy, confusion matrix, ROC curve, and classification report.
 * Insights and Visualizations: Visualizations are provided to highlight the most important features influencing loan approval and to compare the performance of each model.
+
+---
+
 
 ## Conclusion
 
