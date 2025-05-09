@@ -104,7 +104,7 @@ Rubiscape, a visual AI platform, was used for:
    ```bash
    git clone https://github.com/your-username/Loan-Prediction-System.git
    cd Loan-Prediction-System
-````
+   ```
 
 2. Install dependencies:
 
@@ -125,6 +125,9 @@ Rubiscape, a visual AI platform, was used for:
    ```
 
 ---
+
+---
+
 
 ## ✅ Prediction Output
 
