@@ -1,8 +1,3 @@
-Here's a professional `README.md` file for your **Loan Prediction System with Deployment** project:
-
----
-
-```markdown
 # 💰 Loan Prediction System with Deployment
 
 ## 📌 Overview
